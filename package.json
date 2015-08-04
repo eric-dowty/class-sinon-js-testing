@@ -1,0 +1,29 @@
+{
+  "name": "sinon-test",
+  "version": "1.0.0",
+  "description": "An example of testing JavaScript with Sinon.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "Steve Kinney",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-dowty/class-sinon-js-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eric-dowty/class-sinon-js-testing/issues"
+  },
+  "homepage": "https://github.com/eric-dowty/class-sinon-js-testing#readme",
+  "dependencies": {
+    "sinon": "^1.15.4"
+  }
+}
